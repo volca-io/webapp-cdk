@@ -1,0 +1,16 @@
+{
+  "availability-zones:account=428245413678:region=eu-central-1": [
+    "eu-central-1a",
+    "eu-central-1b",
+    "eu-central-1c"
+  ],
+  "availability-zones:account=428245413678:region=eu-west-1": [
+    "eu-west-1a",
+    "eu-west-1b",
+    "eu-west-1c"
+  ],
+  "hosted-zone:account=428245413678:domainName=staging.volca.io:region=eu-central-1": {
+    "Id": "/hostedzone/Z0634214175Z84LG2HIO1",
+    "Name": "staging.volca.io."
+  }
+}
